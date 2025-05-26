@@ -5,6 +5,6 @@
     echo "A raiz de  $valor é igual a " . number_format($rq, 2, ",", ".") . "<br>";
 ?>
 
-<a href="01-execrcicio.html">
+<a href="01-exercicio.html">
     Voltar
 </a>
