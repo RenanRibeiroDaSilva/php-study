@@ -2,18 +2,18 @@
 
 🧠 Crie uma aplicação composta por dois arquivos:
 
-1.`imc.html`
-Formulário com os seguintes campos:
-    *`peso` (input `type="number"` com casas decimais);
-    *`altura` (input `type="number"` com casas decimais);
-    *`submit`.
+1. `imc.html`  
+   Formulário com os seguintes campos:
+   - `peso` (input `type="number"` com casas decimais);
+   - `altura` (input `type="number"` com casas decimais);
+   - `submit`.
 
-Esse formulário deve enviar os dados para o arquivo `resultado.php` via `GET`.
+   Esse formulário deve enviar os dados para o arquivo `resultado.php` via `GET`.
 
-2.`resultado.php`
-Este script deve:
-    1. Capturar peso e altura com $_GET;
-    2. Calcular o IMC com a fórmula:
+2. `resultado.php`  
+   Este script deve:
+   1. Capturar peso e altura com `$_GET`;
+   2. Calcular o IMC com a fórmula:
 
 ```ini
     IMC = peso / (altura * altura)
