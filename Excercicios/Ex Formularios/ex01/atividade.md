@@ -8,4 +8,3 @@ O formulário deve enviar os dados usando o método GET para um arquivo PHP cham
 No saudacao.php:  
     1. Recupere o nome enviado pela URL usando $_GET;  
     2. Exiba uma mensagem de saudação personalizada.
-    
