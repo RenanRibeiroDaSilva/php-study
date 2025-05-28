@@ -1,5 +1,6 @@
-🧠 Exercício 2 – Nível Médio: Calculadora de Soma
-    Crie uma pequena calculadora que:
+🧠 Exercício 2 – Nível Médio: Calculadora de Soma 
+
+        Crie uma pequena calculadora que:
         1. Exiba um formulário HTML com:
             - Dois campos number (n1 e n2);
             - Um botão de envio (submit).
