@@ -1,5 +1,5 @@
-🧠 Exercício 1 – Nível Fácil: Saudação Personalizada
-Enunciado:  
+# 🧠 Exercício 1 – Nível Fácil: Saudação Personalizada
+
 Crie um formulário HTML com o seguinte:
     1. Um campo de texto para o usuário digitar seu nome (name="nome");
     2. Um botão de envio (type="submit").
